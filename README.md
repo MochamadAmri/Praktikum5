@@ -110,7 +110,7 @@ Input (4)
 ![Input(4) Praktikum5](https://user-images.githubusercontent.com/56380838/71576779-4f736100-2b24-11ea-87b3-7f3e0269119e.png)
 # Screenshot Ouput
 ADD
-
+![Add Praktikum5](https://user-images.githubusercontent.com/56380838/71577372-6dda5c00-2b26-11ea-8e46-247d987cd0a8.png)
 LIST
 ![List Praktikum5](https://user-images.githubusercontent.com/56380838/71577109-6d8d9100-2b25-11ea-8b9c-591b2f782708.png)
 SEARCH
