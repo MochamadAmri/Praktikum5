@@ -101,5 +101,10 @@ while True:                                                                     
 ![Flowchart Praktikum5](https://user-images.githubusercontent.com/56380838/71565865-5a5ad100-2ae5-11ea-8107-c4cbe94a8191.jpeg)
 # Screenshot Input
 Input (1)
-
-
+![Input(1) Praktikum5](https://user-images.githubusercontent.com/56380838/71576654-e5f35280-2b23-11ea-851c-298dda2f2ffc.png)
+Input (2)
+![Input (2) Praktikum5](https://user-images.githubusercontent.com/56380838/71576713-1cc96880-2b24-11ea-86df-81b44f23f9ae.png) 
+Input (3)
+![Input(3) Praktikum5](https://user-images.githubusercontent.com/56380838/71576742-37034680-2b24-11ea-8a51-f56361ff0008.png)
+Input (4)
+![Input(4) Praktikum5](https://user-images.githubusercontent.com/56380838/71576779-4f736100-2b24-11ea-87b3-7f3e0269119e.png)
