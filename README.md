@@ -108,3 +108,16 @@ Input (3)
 ![Input(3) Praktikum5](https://user-images.githubusercontent.com/56380838/71576742-37034680-2b24-11ea-8a51-f56361ff0008.png)
 Input (4)
 ![Input(4) Praktikum5](https://user-images.githubusercontent.com/56380838/71576779-4f736100-2b24-11ea-87b3-7f3e0269119e.png)
+# Screenshot Ouput
+ADD
+
+LIST
+![List Praktikum5](https://user-images.githubusercontent.com/56380838/71577109-6d8d9100-2b25-11ea-8b9c-591b2f782708.png)
+SEARCH
+![Search Praktikum5](https://user-images.githubusercontent.com/56380838/71577129-826a2480-2b25-11ea-8539-3c468b895bdc.png)
+EDIT
+![Edit Praktikum5](https://user-images.githubusercontent.com/56380838/71577033-37e8a800-2b25-11ea-8a64-a59f7acd538d.png)
+DELETE
+![Delete Parktikum5](https://user-images.githubusercontent.com/56380838/71577012-23a4ab00-2b25-11ea-9c65-9881f6b9524a.png)
+QUIT
+![Quit Praktikum5](https://user-images.githubusercontent.com/56380838/71577070-59e22a80-2b25-11ea-9c1d-fd11fcca037e.png)
