@@ -1,6 +1,6 @@
-###PRAKTIKUM 5
+# PRAKTIKUM 5
 
-###Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
+# Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
 
 Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
 
