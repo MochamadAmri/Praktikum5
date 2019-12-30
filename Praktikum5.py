@@ -84,7 +84,7 @@ while True:
 
     ## MENU KELUAR PROGRAM
     elif (c.lower() == 'q'):
-        print("\n Veno Setyoaji Wiratama \n 311910363 \n TI.19.A.2")
+        print("\n Mochamad Amri Adrian Wiratama \n 311910363 \n TI.19.A.2")
         break
 
     else:
