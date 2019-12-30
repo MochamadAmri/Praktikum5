@@ -1,6 +1,6 @@
-#PRAKTIKUM 5
+###PRAKTIKUM 5
 
-#Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
+###Program Menghitung Nilai Mahasiswa Menggunakan Dictionary
 
 Pada praktek kali ini, saya mencoba membuat program menentukan nilai mahasiswa dengan menggunakan Dictionary.
 
@@ -92,7 +92,7 @@ while True:                                                                     
 
     ## MENU KELUAR PROGRAM
     elif (c.lower() == 'q'):                                                                   ## Menu QUIT
-        print("\n mochamad amri adrian wiratama \n 311910363 \n TI.19.A.2")
+        print("\n mochamad amri adrian wiratama \n 311910226 \n TI.19.A.2")
         break                                                                                  ## Mengakhiri LOOPING
 
     else:
